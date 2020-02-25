@@ -1,0 +1,24 @@
+#background {
+  background-color:purple;
+}
+#header {
+  background-color:darkorange;
+  color:brown;
+  text-align:center;
+  font-family:arial;
+}
+#paragraph {
+  background-color:navy;
+  color:lightpink;
+  font-family:arial;
+}
+#table {
+  background-color:lightyellow;
+  color:darkgray;
+  font-family:arial;
+}
+#list {
+  background color:lightgreen;
+  color:purple;
+  font-family:arial;
+}
