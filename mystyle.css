@@ -1,0 +1,15 @@
+#background {
+  background-color:purple;
+}
+#header {
+  background-color:beige;
+  color: darkblue;
+  text-align: center;
+  font-family:arial;
+}
+#paragraph {
+  background-color:lightyellow;
+  color:maroon;
+  font-family:verdana;
+  font-size:200%;
+}
