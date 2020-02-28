@@ -1,24 +1,25 @@
-#background {
-  background-color:purple;
+.body {
+  background-color:seagreen;
+  font-family:arial;
 }
-#header {
+.header {
   background-color:darkorange;
   color:brown;
   text-align:center;
   font-family:arial;
 }
-#paragraph {
-  background-color:navy;
-  color:lightpink;
+.paragraph {
+  background-color:sienna;
+  color:yellow;
   font-family:arial;
 }
-#table {
-  background-color:lightyellow;
-  color:darkgray;
+.table {
+  background-color:firebrick;
+  color:limegreen;
   font-family:arial;
 }
-#list {
-  background color:lightgreen;
-  color:purple;
+.list {
+  background-color:khaki;
+  color:darkorchid;
   font-family:arial;
 }
