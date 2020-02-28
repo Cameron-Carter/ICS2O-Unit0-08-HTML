@@ -1,15 +1,15 @@
-#background {
+.body {
   background-color:purple;
 }
-#header {
+.header {
   background-color:beige;
   color: darkblue;
   text-align: center;
   font-family:arial;
 }
-#paragraph {
+.paragraph {
   background-color:lightyellow;
   color:maroon;
   font-family:verdana;
-  font-size:200%;
+  font-size:150%;
 }
